@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#school {
+    float: left;
+    margin-left: 250px;
+    padding: 15px;
+    font-size: 25px;
+}
+#school h3 {
+    font-weight: normal;
+}
+#type {
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 25vh;
+   margin-left: 70vh;
+}
+#term {
+    min-height: 20vh;
+    width: 25vh;
+}
+h3 {
+    text-align: center;
+    font-size: 15px;
+}
+#demo {
+    width: 10px;
+    
+    
+}
+input [type="checkbox"] {
+    padding: 100px;
+}
+.course {
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 45vh;
+    height: 20vh;
+    margin-top: 20px;
+}
+.course #bshm  {
+    margin-left: 30px;
+    text-align: center;
+
+}
+.course  #number {
+    margin-left: 25px;
+    text-align: center;
+    width: 24vh;
+    border: none;
+    border-bottom: 2px solid #999;
+    border-bottom-color: black;
+}
+
+.number  #enroll {
+    width: 30vh;
+    border: none;
+    border-bottom: 2px solid #999;
+    border-bottom-color: black;
+    
+}
+.number #usn {
+    width: 205px;
+    border: none;
+    border-bottom: 2px solid #999;
+    border-bottom-color: black;
+    margin-right: 20px;
+}
+
+p {
+    text-transform: uppercase;
+}
+table {
+    width: 90‰;
+    padding: 0;
+    border-collapse: collapse;
+    
+}
+
+table, td, tr {
+    border: 1px solid  black;
+}
+thread,tr,th{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+tr td{
+    padding: 15px;
+
+}
+
+td {
+    text-transform: uppercase;
+    font-size: 14px;
+}
+td {
+    width: 35%
+}
+
+#left #home {
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
